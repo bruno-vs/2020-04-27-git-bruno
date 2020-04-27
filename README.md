@@ -9,3 +9,6 @@
 -log: look at history
 	-log --online simple, for hash part
 -diff: look at differences bteween current state and what git knows
+- remote: a place on github
+	-git remote add origin <URL>
+- git push origin master
