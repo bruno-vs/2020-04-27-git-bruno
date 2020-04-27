@@ -6,4 +6,6 @@
 - add: file to stage level
 - commit: unstage file to normal, 
 	- use -m for "header message"
-
+-log: look at history
+	-log --online simple, for hash part
+-diff: look at differences bteween current state and what git knows
